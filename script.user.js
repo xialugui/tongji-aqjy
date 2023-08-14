@@ -1,9 +1,14 @@
 // ==UserScript==
 // @name         同济大学实验室安全教育考试助手
 // @namespace    https://gitee.com/xialugui/tongji-aqjy
-// @version      0.1
+// @version      0.0.1
 // @description  自动填写同济大学实验室安全教育考试答案
 // @author       陆龟
+// @copyright    2023,陆龟
+// @homepageURL  https://xialugui.github.io/tongji-aqjy
+// @supportURL   https://xialugui.github.io/tongji-aqjy
+// @contributionURL  https://xialugui.github.io/tongji-aqjy
+// @@updateURL   https://openuserjs.org/meta/xialugui/tongji-aqjy.meta.js  https://xialugui.github.io/tongji-aqjy
 // @match        http://aqjy.tongji.edu.cn/userOperation!afterLogin.do
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        GM_log
