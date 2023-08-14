@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  自动填写同济大学实验室安全教育考试答案
 // @author       陆龟
-// @license      Apache License
+// @license      MIT
 // @copyright    2023,陆龟
 // @homepageURL  https://xialugui.github.io/tongji-aqjy
 // @supportURL   https://xialugui.github.io/tongji-aqjy
