@@ -9,7 +9,7 @@
 // @homepageURL  https://xialugui.github.io/tongji-aqjy
 // @supportURL   https://xialugui.github.io/tongji-aqjy
 // @contributionURL  https://xialugui.github.io/tongji-aqjy
-// @@updateURL   https://openuserjs.org/meta/xialugui/tongji-aqjy.meta.js  https://xialugui.github.io/tongji-aqjy
+// @updateURL    https://openuserjs.org/meta/xialugui/tongji-aqjy.meta.js  https://xialugui.github.io/tongji-aqjy
 // @match        http://aqjy.tongji.edu.cn/userOperation!afterLogin.do
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        GM_log
