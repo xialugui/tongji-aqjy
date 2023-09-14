@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         同济大学实验室安全教育考试助手
 // @namespace    https://gitee.com/xialugui/tongji-aqjy
-// @version      0.0.1
-// @description  自动填写同济大学实验室安全教育考试答案
+// @version      0.0.2
+// @description  提供试题答案查询功能。
 // @author       陆龟
 // @license      Apache-2.0
 // @copyright    2023,陆龟
